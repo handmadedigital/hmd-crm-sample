@@ -1,0 +1,695 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'firebase',
+1 verbose cli   '--save' ]
+2 info using npm@2.14.12
+3 info using node@v4.2.6
+4 verbose install initial load of C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\package.json
+5 warn package.json vue-webgulp@0.1.0 No repository field.
+6 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\babel-core\package.json
+7 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\babel-loader\package.json
+8 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\babel-plugin-transform-runtime\package.json
+9 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\babel-preset-es2015\package.json
+10 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\babel-runtime\package.json
+11 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\base64url\package.json
+12 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\css-loader\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\foundation-sites\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\gulp\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\gulp-batch\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\gulp-connect\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\gulp-copy\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\gulp-plumber\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\gulp-util\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\gulp-watch\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\html-loader\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\iconfonts\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\node-sass\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\php\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\sass-loader\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\style-loader\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\vue\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\vue-hot-reload-api\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\vue-html-loader\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\vue-loader\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\vue-resource\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\vue-router\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\webpack\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\webpack-dev-server\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\webpack-stream\package.json
+37 info package.json firebase@2.4.1 No license field.
+38 info package.json vue-hot-reload-api@1.3.2 No README data
+39 info package.json gulp-copy@0.0.2 No license field.
+40 info package.json html-loader@0.4.0 No license field.
+41 info package.json php@0.0.1 'repositories' (plural) Not supported. Please pick one as the 'repository' field
+42 info package.json php@0.0.1 No license field.
+43 info package.json vue-html-loader@1.1.0 No license field.
+44 verbose readDependencies loading dependencies from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\package.json
+45 verbose install firebase is installed as 2.4.1
+46 silly cache add args [ 'firebase', null ]
+47 verbose cache add spec firebase
+48 silly cache add parsed spec Result {
+48 silly cache add   raw: 'firebase',
+48 silly cache add   scope: null,
+48 silly cache add   name: 'firebase',
+48 silly cache add   rawSpec: '',
+48 silly cache add   spec: 'latest',
+48 silly cache add   type: 'tag' }
+49 silly addNamed firebase@latest
+50 verbose addNamed "latest" is being treated as a dist-tag for firebase
+51 info addNameTag [ 'firebase', 'latest' ]
+52 silly mapToRegistry name firebase
+53 silly mapToRegistry using default registry
+54 silly mapToRegistry registry http://registry.npmjs.org/
+55 silly mapToRegistry uri http://registry.npmjs.org/firebase
+56 verbose addNameTag registry:http://registry.npmjs.org/firebase not in flight; fetching
+57 verbose request uri http://registry.npmjs.org/firebase
+58 verbose request no auth needed
+59 info attempt registry request try #1 at 10:44:39 PM
+60 verbose request id 92428b81a3eeb151
+61 verbose etag "7R9PSA12JRURI3C747C3M0J5X"
+62 http request GET http://registry.npmjs.org/firebase
+63 http 304 http://registry.npmjs.org/firebase
+64 verbose headers { date: 'Wed, 23 Mar 2016 02:44:39 GMT',
+64 verbose headers   via: '1.1 varnish',
+64 verbose headers   'cache-control': 'max-age=300',
+64 verbose headers   etag: '"7R9PSA12JRURI3C747C3M0J5X"',
+64 verbose headers   age: '216',
+64 verbose headers   connection: 'keep-alive',
+64 verbose headers   'x-served-by': 'cache-jfk1048-JFK',
+64 verbose headers   'x-cache': 'HIT',
+64 verbose headers   'x-cache-hits': '1',
+64 verbose headers   'x-timer': 'S1458701079.671309,VS0,VE0',
+64 verbose headers   vary: 'Accept' }
+65 silly get cb [ 304,
+65 silly get   { date: 'Wed, 23 Mar 2016 02:44:39 GMT',
+65 silly get     via: '1.1 varnish',
+65 silly get     'cache-control': 'max-age=300',
+65 silly get     etag: '"7R9PSA12JRURI3C747C3M0J5X"',
+65 silly get     age: '216',
+65 silly get     connection: 'keep-alive',
+65 silly get     'x-served-by': 'cache-jfk1048-JFK',
+65 silly get     'x-cache': 'HIT',
+65 silly get     'x-cache-hits': '1',
+65 silly get     'x-timer': 'S1458701079.671309,VS0,VE0',
+65 silly get     vary: 'Accept' } ]
+66 verbose etag http://registry.npmjs.org/firebase from cache
+67 verbose get saving firebase to C:\Users\tgld\AppData\Roaming\npm-cache\registry.npmjs.org\firebase\.cache.json
+68 silly addNameTag next cb for firebase with tag latest
+69 silly addNamed firebase@2.4.1
+70 verbose addNamed "2.4.1" is a plain semver version for firebase
+71 silly cache afterAdd firebase@2.4.1
+72 verbose afterAdd C:\Users\tgld\AppData\Roaming\npm-cache\firebase\2.4.1\package\package.json not in flight; writing
+73 verbose afterAdd C:\Users\tgld\AppData\Roaming\npm-cache\firebase\2.4.1\package\package.json written
+74 silly install resolved [ { author: { name: 'Firebase' },
+74 silly install resolved     email: 'operations@firebase.com',
+74 silly install resolved     name: 'firebase',
+74 silly install resolved     description: 'Firebase library for Node.js',
+74 silly install resolved     version: '2.4.1',
+74 silly install resolved     main: './lib/firebase-node.js',
+74 silly install resolved     browser: './lib/firebase-web.js',
+74 silly install resolved     scripts: { test: 'echo "Error: no test specified" && exit 1' },
+74 silly install resolved     keywords: [ 'Firebase', 'synchronization', 'real-time', 'websocket' ],
+74 silly install resolved     dependencies: { 'faye-websocket': '>=0.6.0' },
+74 silly install resolved     repository: { type: 'none', url: 'https://www.firebase.com/' },
+74 silly install resolved     _id: 'firebase@2.4.1',
+74 silly install resolved     _shasum: '8a976c63b8b90577731a97cc569699a01875344b',
+74 silly install resolved     _from: 'firebase@latest',
+74 silly install resolved     _npmVersion: '2.7.5',
+74 silly install resolved     _nodeVersion: '0.10.38',
+74 silly install resolved     _npmUser: { name: 'firebase', email: 'operations@firebase.com' },
+74 silly install resolved     maintainers: [ [Object] ],
+74 silly install resolved     dist:
+74 silly install resolved      { shasum: '8a976c63b8b90577731a97cc569699a01875344b',
+74 silly install resolved        tarball: 'http://registry.npmjs.org/firebase/-/firebase-2.4.1.tgz' },
+74 silly install resolved     _npmOperationalInternal:
+74 silly install resolved      { host: 'packages-6-west.internal.npmjs.com',
+74 silly install resolved        tmp: 'tmp/firebase-2.4.1.tgz_1455747531400_0.45157909230329096' },
+74 silly install resolved     directories: {},
+74 silly install resolved     _resolved: 'http://registry.npmjs.org/firebase/-/firebase-2.4.1.tgz',
+74 silly install resolved     readme: 'ERROR: No README data found!' } ]
+75 info install firebase@2.4.1 into C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp
+76 info installOne firebase@2.4.1
+77 verbose installOne of firebase to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp not in flight; installing
+78 verbose lock using C:\Users\tgld\AppData\Roaming\npm-cache\_locks\firebase-117fe8b77e887c39.lock for C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+79 silly install write writing firebase 2.4.1 to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+80 verbose unbuild node_modules\firebase
+81 info preuninstall firebase@2.4.1
+82 info uninstall firebase@2.4.1
+83 verbose unbuild rmStuff firebase@2.4.1 from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules
+84 info postuninstall firebase@2.4.1
+85 silly gentlyRm C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase is being purged from base C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp
+86 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+87 silly vacuum-fs purging C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+88 silly vacuum-fs quitting because other entries in C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules
+89 verbose tar unpack C:\Users\tgld\AppData\Roaming\npm-cache\firebase\2.4.1\package.tgz
+90 verbose tar unpacking to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+91 silly gentlyRm C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase is being purged
+92 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+93 silly gunzTarPerm modes [ '777', '666' ]
+94 silly gunzTarPerm extractEntry package.json
+95 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+96 silly gunzTarPerm extractEntry README.md
+97 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+98 silly gunzTarPerm extractEntry lib/README
+99 silly gunzTarPerm modified mode [ 'lib/README', 420, 438 ]
+100 silly gunzTarPerm extractEntry lib/firebase-node.js
+101 silly gunzTarPerm modified mode [ 'lib/firebase-node.js', 420, 438 ]
+102 silly gunzTarPerm extractEntry lib/firebase-web.js
+103 silly gunzTarPerm modified mode [ 'lib/firebase-web.js', 420, 438 ]
+104 silly gunzTarPerm extractEntry npm-shrinkwrap.json
+105 silly gunzTarPerm modified mode [ 'npm-shrinkwrap.json', 420, 438 ]
+106 verbose write writing to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\package.json
+107 info preinstall firebase@2.4.1
+108 verbose readDependencies loading dependencies from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\package.json
+109 verbose readDependencies npm-shrinkwrap.json is overriding dependencies
+110 info shrinkwrap file "C:\\Users\\tgld\\Desktop\\handmade-digital\\new-website\\vue-webgulp\\node_modules\\firebase\\npm-shrinkwrap.json"
+111 verbose readDependencies returned deps { 'faye-websocket': 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz' }
+112 silly prepareForInstallMany adding faye-websocket@https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz from firebase dependencies
+113 verbose readDependencies loading dependencies from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\package.json
+114 verbose readDependencies: using existing wrap [ 'C:\\Users\\tgld\\Desktop\\handmade-digital\\new-website\\vue-webgulp\\node_modules\\firebase',
+114 verbose readDependencies: using existing wrap   { 'faye-websocket':
+114 verbose readDependencies: using existing wrap      { version: '0.9.3',
+114 verbose readDependencies: using existing wrap        from: 'faye-websocket@>=0.6.0',
+114 verbose readDependencies: using existing wrap        resolved: 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz',
+114 verbose readDependencies: using existing wrap        dependencies: [Object] } } ]
+115 verbose from wrap [ 'faye-websocket',
+115 verbose from wrap   { version: '0.9.3',
+115 verbose from wrap     from: 'faye-websocket@>=0.6.0',
+115 verbose from wrap     resolved: 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz',
+115 verbose from wrap     dependencies: { 'websocket-driver': [Object] } } ]
+116 verbose readDependencies returned deps { 'faye-websocket': 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz' }
+117 silly cache add args [ 'faye-websocket@https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz',
+117 silly cache add   null ]
+118 verbose cache add spec faye-websocket@https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz
+119 silly cache add parsed spec Result {
+119 silly cache add   raw: 'faye-websocket@https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz',
+119 silly cache add   scope: null,
+119 silly cache add   name: 'faye-websocket',
+119 silly cache add   rawSpec: 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz',
+119 silly cache add   spec: 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz',
+119 silly cache add   type: 'remote' }
+120 silly mapToRegistry name faye-websocket@https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz
+121 silly mapToRegistry using default registry
+122 silly mapToRegistry registry http://registry.npmjs.org/
+123 silly mapToRegistry uri http://registry.npmjs.org/faye-websocket@https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz
+124 verbose addRemoteTarball https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz not in flight; adding
+125 verbose addRemoteTarball [ 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz',
+125 verbose addRemoteTarball   null ]
+126 info retry fetch attempt 1 at 10:44:40 PM
+127 info attempt registry request try #1 at 10:44:40 PM
+128 http fetch GET https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz
+129 http fetch 200 https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz
+130 silly fetchAndShaCheck shasum 482a505b0df0ae626b969866d3bd740cdb962e83
+131 verbose addTmpTarball C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\registry.npmjs.org\faye-websocket\-\faye-websocket-0.9.3.tgz not in flight; adding
+132 verbose addTmpTarball validating metadata from C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\registry.npmjs.org\faye-websocket\-\faye-websocket-0.9.3.tgz
+133 verbose tar unpack C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\registry.npmjs.org\faye-websocket\-\faye-websocket-0.9.3.tgz
+134 verbose tar unpacking to C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\unpack-8574b33109dd
+135 silly gentlyRm C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\unpack-8574b33109dd is being purged
+136 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\unpack-8574b33109dd
+137 silly gunzTarPerm modes [ '777', '666' ]
+138 silly gunzTarPerm extractEntry package.json
+139 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+140 silly gunzTarPerm extractEntry README.md
+141 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+142 silly gunzTarPerm extractEntry CHANGELOG.md
+143 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+144 silly gunzTarPerm extractEntry examples/autobahn_client.js
+145 silly gunzTarPerm modified mode [ 'examples/autobahn_client.js', 420, 438 ]
+146 silly gunzTarPerm extractEntry examples/client.js
+147 silly gunzTarPerm modified mode [ 'examples/client.js', 420, 438 ]
+148 silly gunzTarPerm extractEntry examples/proxy_server.js
+149 silly gunzTarPerm modified mode [ 'examples/proxy_server.js', 420, 438 ]
+150 silly gunzTarPerm extractEntry examples/server.js
+151 silly gunzTarPerm modified mode [ 'examples/server.js', 420, 438 ]
+152 silly gunzTarPerm extractEntry examples/haproxy.conf
+153 silly gunzTarPerm modified mode [ 'examples/haproxy.conf', 420, 438 ]
+154 silly gunzTarPerm extractEntry examples/sse.html
+155 silly gunzTarPerm modified mode [ 'examples/sse.html', 420, 438 ]
+156 silly gunzTarPerm extractEntry examples/ws.html
+157 silly gunzTarPerm modified mode [ 'examples/ws.html', 420, 438 ]
+158 silly gunzTarPerm extractEntry lib/faye/eventsource.js
+159 silly gunzTarPerm modified mode [ 'lib/faye/eventsource.js', 420, 438 ]
+160 silly gunzTarPerm extractEntry lib/faye/websocket.js
+161 silly gunzTarPerm modified mode [ 'lib/faye/websocket.js', 420, 438 ]
+162 silly gunzTarPerm extractEntry lib/faye/websocket/api.js
+163 silly gunzTarPerm modified mode [ 'lib/faye/websocket/api.js', 420, 438 ]
+164 silly gunzTarPerm extractEntry lib/faye/websocket/client.js
+165 silly gunzTarPerm modified mode [ 'lib/faye/websocket/client.js', 420, 438 ]
+166 silly gunzTarPerm extractEntry lib/faye/websocket/api/event.js
+167 silly gunzTarPerm modified mode [ 'lib/faye/websocket/api/event.js', 420, 438 ]
+168 silly gunzTarPerm extractEntry lib/faye/websocket/api/event_target.js
+169 silly gunzTarPerm modified mode [ 'lib/faye/websocket/api/event_target.js', 420, 438 ]
+170 silly cache afterAdd faye-websocket@0.9.3
+171 verbose afterAdd C:\Users\tgld\AppData\Roaming\npm-cache\faye-websocket\0.9.3\package\package.json not in flight; writing
+172 verbose afterAdd C:\Users\tgld\AppData\Roaming\npm-cache\faye-websocket\0.9.3\package\package.json written
+173 silly install resolved [ { name: 'faye-websocket',
+173 silly install resolved     description: 'Standards-compliant WebSocket server and client',
+173 silly install resolved     homepage: 'http://github.com/faye/faye-websocket-node',
+173 silly install resolved     author:
+173 silly install resolved      { name: 'James Coglan',
+173 silly install resolved        email: 'jcoglan@gmail.com',
+173 silly install resolved        url: 'http://jcoglan.com/' },
+173 silly install resolved     keywords: [ 'websocket', 'eventsource' ],
+173 silly install resolved     license: 'MIT',
+173 silly install resolved     version: '0.9.3',
+173 silly install resolved     engines: { node: '>=0.4.0' },
+173 silly install resolved     main: './lib/faye/websocket',
+173 silly install resolved     dependencies: { 'websocket-driver': '>=0.5.1' },
+173 silly install resolved     devDependencies: { jstest: '', pace: '', 'permessage-deflate': '' },
+173 silly install resolved     scripts: { test: 'jstest spec/runner.js' },
+173 silly install resolved     repository:
+173 silly install resolved      { type: 'git',
+173 silly install resolved        url: 'git://github.com/faye/faye-websocket-node.git' },
+173 silly install resolved     bugs: { url: 'http://github.com/faye/faye-websocket-node/issues' },
+173 silly install resolved     readme: '# faye-websocket\n\n* Travis CI build: [![Build\n  status](https://secure.travis-ci.org/faye/faye-websocket-node.svg)](http://travis-ci.org/faye/faye-websocket-node)\n* Autobahn tests: [server](http://faye.jcoglan.com/autobahn/servers/),\n  [client](http://faye.jcoglan.com/autobahn/clients/)\n\nThis is a general-purpose WebSocket implementation extracted from the\n[Faye](http://faye.jcoglan.com) project. It provides classes for easily building\nWebSocket servers and clients in Node. It does not provide a server itself, but\nrather makes it easy to handle WebSocket connections within an existing\n[Node](http://nodejs.org/) application. It does not provide any abstraction\nother than the standard [WebSocket API](http://dev.w3.org/html5/websockets/).\n\nIt also provides an abstraction for handling\n[EventSource](http://dev.w3.org/html5/eventsource/) connections, which are\none-way connections that allow the server to push data to the client. They are\nbased on streaming HTTP responses and can be easier to access via proxies than\nWebSockets.\n\n\n## Installation\n\n```\n$ npm install faye-websocket\n```\n\n\n## Handling WebSocket connections in Node\n\nYou can handle WebSockets on the server side by listening for HTTP Upgrade\nrequests, and creating a new socket for the request. This socket object exposes\nthe usual WebSocket methods for receiving and sending messages. For example this\nis how you\'d implement an echo server:\n\n```js\nvar WebSocket = require(\'faye-websocket\'),\n    http      = require(\'http\');\n\nvar server = http.createServer();\n\nserver.on(\'upgrade\', function(request, socket, body) {\n  if (WebSocket.isWebSocket(request)) {\n    var ws = new WebSocket(request, socket, body);\n    \n    ws.on(\'message\', function(event) {\n      ws.send(event.data);\n    });\n    \n    ws.on(\'close\', function(event) {\n      console.log(\'close\', event.code, event.reason);\n      ws = null;\n    });\n  }\n});\n\nserver.listen(8000);\n```\n\n`WebSocket` objects are also duplex streams, so you could replace the\n`ws.on(\'message\', ...)` line with:\n\n```js\n    ws.pipe(ws);\n```\n\nNote that under certain circumstances (notably a draft-76 client connecting\nthrough an HTTP proxy), the WebSocket handshake will not be complete after you\ncall `new WebSocket()` because the server will not have received the entire\nhandshake from the client yet. In this case, calls to `ws.send()` will buffer\nthe message in memory until the handshake is complete, at which point any\nbuffered messages will be sent to the client.\n\nIf you need to detect when the WebSocket handshake is complete, you can use the\n`onopen` event.\n\nIf the connection\'s protocol version supports it, you can call `ws.ping()` to\nsend a ping message and wait for the client\'s response. This method takes a\nmessage string, and an optional callback that fires when a matching pong message\nis received. It returns `true` iff a ping message was sent. If the client does\nnot support ping/pong, this method sends no data and returns `false`.\n\n```js\nws.ping(\'Mic check, one, two\', function() {\n  // fires when pong is received\n});\n```\n\n\n## Using the WebSocket client\n\nThe client supports both the plain-text `ws` protocol and the encrypted `wss`\nprotocol, and has exactly the same interface as a socket you would use in a web\nbrowser. On the wire it identifies itself as `hybi-13`.\n\n```js\nvar WebSocket = require(\'faye-websocket\'),\n    ws        = new WebSocket.Client(\'ws://www.example.com/\');\n\nws.on(\'open\', function(event) {\n  console.log(\'open\');\n  ws.send(\'Hello, world!\');\n});\n\nws.on(\'message\', function(event) {\n  console.log(\'message\', event.data);\n});\n\nws.on(\'close\', function(event) {\n  console.log(\'close\', event.code, event.reason);\n  ws = null;\n});\n```\n\nThe WebSocket client also lets you inspect the status and headers of the\nhandshake response via its `statusCode` and `headers` properties.\n\nTo connect via a proxy, set the `proxy` option to the HTTP origin of the proxy,\nincluding any authorization information, custom headers and TLS config you\nrequire. Only the `origin` setting is required.\n\n```js\nvar ws = new WebSocket.Client(\'ws://www.example.com/\', null, {\n  proxy: {\n    origin:  \'http://username:password@proxy.example.com\',\n    headers: {\'User-Agent\': \'node\'},\n    tls:     {cert: fs.readFileSync(\'client.crt\')}\n  }\n});\n```\n\nThe `tls` value is a Node \'TLS options\' object that will be passed to\n[`tls.connect()`](http://nodejs.org/api/tls.html#tls_tls_connect_options_callback).\n\n\n## Subprotocol negotiation\n\nThe WebSocket protocol allows peers to select and identify the application\nprotocol to use over the connection. On the client side, you can set which\nprotocols the client accepts by passing a list of protocol names when you\nconstruct the socket:\n\n```js\nvar ws = new WebSocket.Client(\'ws://www.example.com/\', [\'irc\', \'amqp\']);\n```\n\nOn the server side, you can likewise pass in the list of protocols the server\nsupports after the other constructor arguments:\n\n```js\nvar ws = new WebSocket(request, socket, body, [\'irc\', \'amqp\']);\n```\n\nIf the client and server agree on a protocol, both the client- and server-side\nsocket objects expose the selected protocol through the `ws.protocol` property.\n\n\n## Protocol extensions\n\nfaye-websocket is based on the\n[websocket-extensions](https://github.com/faye/websocket-extensions-node)\nframework that allows extensions to be negotiated via the\n`Sec-WebSocket-Extensions` header. To add extensions to a connection, pass an\narray of extensions to the `:extensions` option. For example, to add\n[permessage-deflate](https://github.com/faye/permessage-deflate-node):\n\n```js\nvar deflate = require(\'permessage-deflate\');\n\nvar ws = new WebSocket(request, socket, body, null, {extensions: [deflate]});\n```\n\n\n## Initialization options\n\nBoth the server- and client-side classes allow an options object to be passed in\nat initialization time, for example:\n\n```js\nvar ws = new WebSocket(request, socket, body, protocols, options);\nvar ws = new WebSocket.Client(url, protocols, options);\n```\n\n`protocols` is an array of subprotocols as described above, or `null`.\n`options` is an optional object containing any of these fields:\n\n* `extensions` - an array of\n  [websocket-extensions](https://github.com/faye/websocket-extensions-node)\n  compatible extensions, as described above\n* `headers` - an object containing key-value pairs representing HTTP headers to\n  be sent during the handshake process\n* `maxLength` - the maximum allowed size of incoming message frames, in bytes.\n  The default value is `2^26 - 1`, or 1 byte short of 64 MiB.\n* `ping` - an integer that sets how often the WebSocket should send ping frames,\n  measured in seconds\n\nThe client accepts some additional options:\n\n* `proxy` - settings for a proxy as described above\n* `tls` - a Node \'TLS options\' object containing TLS settings for the origin\n  server, this will be passed to\n  [`tls.connect()`](http://nodejs.org/api/tls.html#tls_tls_connect_options_callback)\n* `ca` - (legacy) a shorthand for passing `{tls: {ca: value}}`\n\n\n## WebSocket API\n\nBoth server- and client-side `WebSocket` objects support the following API.\n\n* <b>`on(\'open\', function(event) {})`</b> fires when the socket connection is\n  established. Event has no attributes.\n* <b>`on(\'message\', function(event) {})`</b> fires when the socket receives a\n  message. Event has one attribute, <b>`data`</b>, which is either a `String`\n  (for text frames) or a `Buffer` (for binary frames).\n* <b>`on(\'error\', function(event) {})`</b> fires when there is a protocol error\n  due to bad data sent by the other peer. This event is purely informational,\n  you do not need to implement error recover.\n* <b>`on(\'close\', function(event) {})`</b> fires when either the client or the\n  server closes the connection. Event has two optional attributes, <b>`code`</b>\n  and <b>`reason`</b>, that expose the status code and message sent by the peer\n  that closed the connection.\n* <b>`send(message)`</b> accepts either a `String` or a `Buffer` and sends a\n  text or binary message over the connection to the other peer.\n* <b>`ping(message = \'\', function() {})`</b> sends a ping frame with an optional\n  message and fires the callback when a matching pong is received.\n* <b>`close(code, reason)`</b> closes the connection, sending the given status\n  code and reason text, both of which are optional.\n* <b>`version`</b> is a string containing the version of the `WebSocket`\n  protocol the connection is using.\n* <b>`protocol`</b> is a string (which may be empty) identifying the subprotocol\n  the socket is using.\n\n\n## Handling EventSource connections in Node\n\nEventSource connections provide a very similar interface, although because they\nonly allow the server to send data to the client, there is no `onmessage` API.\nEventSource allows the server to push text messages to the client, where each\nmessage has an optional event-type and ID.\n\n```js\nvar WebSocket   = require(\'faye-websocket\'),\n    EventSource = WebSocket.EventSource,\n    http        = require(\'http\');\n\nvar server = http.createServer();\n\nserver.on(\'request\', function(request, response) {\n  if (EventSource.isEventSource(request)) {\n    var es = new EventSource(request, response);\n    console.log(\'open\', es.url, es.lastEventId);\n    \n    // Periodically send messages\n    var loop = setInterval(function() { es.send(\'Hello\') }, 1000);\n    \n    es.on(\'close\', function() {\n      clearInterval(loop);\n      es = null;\n    });\n  \n  } else {\n    // Normal HTTP request\n    response.writeHead(200, {\'Content-Type\': \'text/plain\'});\n    response.end(\'Hello\');\n  }\n});\n\nserver.listen(8000);\n```\n\nThe `send` method takes two optional parameters, `event` and `id`. The default\nevent-type is `\'message\'` with no ID. For example, to send a `notification`\nevent with ID `99`:\n\n```js\nes.send(\'Breaking News!\', {event: \'notification\', id: \'99\'});\n```\n\nThe `EventSource` object exposes the following properties:\n\n* <b>`url`</b> is a string containing the URL the client used to create the\n  EventSource.\n* <b>`lastEventId`</b> is a string containing the last event ID received by the\n  client. You can use this when the client reconnects after a dropped connection\n  to determine which messages need resending.\n\nWhen you initialize an EventSource with ` new EventSource()`, you can pass\nconfiguration options after the `response` parameter. Available options are:\n\n* <b>`headers`</b> is an object containing custom headers to be set on the\n  EventSource response.\n* <b>`retry`</b> is a number that tells the client how long (in seconds) it\n  should wait after a dropped connection before attempting to reconnect.\n* <b>`ping`</b> is a number that tells the server how often (in seconds) to send\n  \'ping\' packets to the client to keep the connection open, to defeat timeouts\n  set by proxies. The client will ignore these messages.\n\nFor example, this creates a connection that allows access from any origin, pings\nevery 15 seconds and is retryable every 10 seconds if the connection is broken:\n\n```js\nvar es = new EventSource(request, response, {\n  headers: {\'Access-Control-Allow-Origin\': \'*\'},\n  ping:    15,\n  retry:   10\n});\n```\n\nYou can send a ping message at any time by calling `es.ping()`. Unlike\nWebSocket, the client does not send a response to this; it is merely to send\nsome data over the wire to keep the connection alive.\n\n\n## License\n\n(The MIT License)\n\nCopyright (c) 2010-2015 James Coglan\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \'Software\'), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \'AS IS\', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n',
+173 silly install resolved     readmeFilename: 'README.md',
+173 silly install resolved     _id: 'faye-websocket@0.9.3',
+173 silly install resolved     _shasum: '482a505b0df0ae626b969866d3bd740cdb962e83',
+173 silly install resolved     _resolved: 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz',
+173 silly install resolved     _from: 'https://registry.npmjs.org/faye-websocket/-/faye-websocket-0.9.3.tgz' } ]
+174 info install faye-websocket@0.9.3 into C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+175 info installOne faye-websocket@0.9.3
+176 verbose installOne of faye-websocket to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase not in flight; installing
+177 verbose lock using C:\Users\tgld\AppData\Roaming\npm-cache\_locks\faye-websocket-a58c54cbb7a2e056.lock for C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket
+178 silly install write writing faye-websocket 0.9.3 to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket
+179 verbose unbuild node_modules\firebase\node_modules\faye-websocket
+180 silly gentlyRm C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket is being purged from base C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp
+181 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket
+182 verbose tar unpack C:\Users\tgld\AppData\Roaming\npm-cache\faye-websocket\0.9.3\package.tgz
+183 verbose tar unpacking to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket
+184 silly gentlyRm C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket is being purged
+185 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket
+186 silly gunzTarPerm modes [ '777', '666' ]
+187 silly gunzTarPerm extractEntry package.json
+188 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+189 silly gunzTarPerm extractEntry README.md
+190 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+191 silly gunzTarPerm extractEntry CHANGELOG.md
+192 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+193 silly gunzTarPerm extractEntry examples/autobahn_client.js
+194 silly gunzTarPerm modified mode [ 'examples/autobahn_client.js', 420, 438 ]
+195 silly gunzTarPerm extractEntry examples/client.js
+196 silly gunzTarPerm modified mode [ 'examples/client.js', 420, 438 ]
+197 silly gunzTarPerm extractEntry examples/proxy_server.js
+198 silly gunzTarPerm modified mode [ 'examples/proxy_server.js', 420, 438 ]
+199 silly gunzTarPerm extractEntry examples/server.js
+200 silly gunzTarPerm modified mode [ 'examples/server.js', 420, 438 ]
+201 silly gunzTarPerm extractEntry examples/haproxy.conf
+202 silly gunzTarPerm modified mode [ 'examples/haproxy.conf', 420, 438 ]
+203 silly gunzTarPerm extractEntry examples/sse.html
+204 silly gunzTarPerm modified mode [ 'examples/sse.html', 420, 438 ]
+205 silly gunzTarPerm extractEntry examples/ws.html
+206 silly gunzTarPerm modified mode [ 'examples/ws.html', 420, 438 ]
+207 silly gunzTarPerm extractEntry lib/faye/eventsource.js
+208 silly gunzTarPerm modified mode [ 'lib/faye/eventsource.js', 420, 438 ]
+209 silly gunzTarPerm extractEntry lib/faye/websocket.js
+210 silly gunzTarPerm modified mode [ 'lib/faye/websocket.js', 420, 438 ]
+211 silly gunzTarPerm extractEntry lib/faye/websocket/api.js
+212 silly gunzTarPerm modified mode [ 'lib/faye/websocket/api.js', 420, 438 ]
+213 silly gunzTarPerm extractEntry lib/faye/websocket/client.js
+214 silly gunzTarPerm modified mode [ 'lib/faye/websocket/client.js', 420, 438 ]
+215 silly gunzTarPerm extractEntry lib/faye/websocket/api/event.js
+216 silly gunzTarPerm modified mode [ 'lib/faye/websocket/api/event.js', 420, 438 ]
+217 silly gunzTarPerm extractEntry lib/faye/websocket/api/event_target.js
+218 silly gunzTarPerm modified mode [ 'lib/faye/websocket/api/event_target.js', 420, 438 ]
+219 verbose write writing to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\package.json
+220 info preinstall faye-websocket@0.9.3
+221 verbose readDependencies loading dependencies from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\package.json
+222 verbose readDependencies: using existing wrap [ 'C:\\Users\\tgld\\Desktop\\handmade-digital\\new-website\\vue-webgulp\\node_modules\\firebase\\node_modules\\faye-websocket',
+222 verbose readDependencies: using existing wrap   { 'websocket-driver':
+222 verbose readDependencies: using existing wrap      { version: '0.5.2',
+222 verbose readDependencies: using existing wrap        from: 'websocket-driver@>=0.5.1',
+222 verbose readDependencies: using existing wrap        resolved: 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+222 verbose readDependencies: using existing wrap        dependencies: [Object] } } ]
+223 verbose from wrap [ 'websocket-driver',
+223 verbose from wrap   { version: '0.5.2',
+223 verbose from wrap     from: 'websocket-driver@>=0.5.1',
+223 verbose from wrap     resolved: 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+223 verbose from wrap     dependencies: { 'websocket-extensions': [Object] } } ]
+224 verbose readDependencies returned deps { 'websocket-driver': 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz' }
+225 silly prepareForInstallMany adding websocket-driver@https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz from faye-websocket dependencies
+226 verbose readDependencies loading dependencies from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\package.json
+227 verbose readDependencies: using existing wrap [ 'C:\\Users\\tgld\\Desktop\\handmade-digital\\new-website\\vue-webgulp\\node_modules\\firebase\\node_modules\\faye-websocket',
+227 verbose readDependencies: using existing wrap   { 'websocket-driver':
+227 verbose readDependencies: using existing wrap      { version: '0.5.2',
+227 verbose readDependencies: using existing wrap        from: 'websocket-driver@>=0.5.1',
+227 verbose readDependencies: using existing wrap        resolved: 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+227 verbose readDependencies: using existing wrap        dependencies: [Object] } } ]
+228 verbose from wrap [ 'websocket-driver',
+228 verbose from wrap   { version: '0.5.2',
+228 verbose from wrap     from: 'websocket-driver@>=0.5.1',
+228 verbose from wrap     resolved: 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+228 verbose from wrap     dependencies: { 'websocket-extensions': [Object] } } ]
+229 verbose readDependencies returned deps { 'websocket-driver': 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz' }
+230 silly cache add args [ 'websocket-driver@https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+230 silly cache add   null ]
+231 verbose cache add spec websocket-driver@https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz
+232 silly cache add parsed spec Result {
+232 silly cache add   raw: 'websocket-driver@https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+232 silly cache add   scope: null,
+232 silly cache add   name: 'websocket-driver',
+232 silly cache add   rawSpec: 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+232 silly cache add   spec: 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+232 silly cache add   type: 'remote' }
+233 silly mapToRegistry name websocket-driver@https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz
+234 silly mapToRegistry using default registry
+235 silly mapToRegistry registry http://registry.npmjs.org/
+236 silly mapToRegistry uri http://registry.npmjs.org/websocket-driver@https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz
+237 verbose addRemoteTarball https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz not in flight; adding
+238 verbose addRemoteTarball [ 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+238 verbose addRemoteTarball   null ]
+239 info retry fetch attempt 1 at 10:44:40 PM
+240 info attempt registry request try #1 at 10:44:40 PM
+241 http fetch GET https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz
+242 http fetch 200 https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz
+243 silly fetchAndShaCheck shasum 8c7c85da0713b4060556b4d71c01775ee1269eb9
+244 verbose addTmpTarball C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\registry.npmjs.org\websocket-driver\-\websocket-driver-0.5.2.tgz not in flight; adding
+245 verbose addTmpTarball validating metadata from C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\registry.npmjs.org\websocket-driver\-\websocket-driver-0.5.2.tgz
+246 verbose tar unpack C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\registry.npmjs.org\websocket-driver\-\websocket-driver-0.5.2.tgz
+247 verbose tar unpacking to C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\unpack-f84628052d1b
+248 silly gentlyRm C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\unpack-f84628052d1b is being purged
+249 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\unpack-f84628052d1b
+250 silly gunzTarPerm modes [ '777', '666' ]
+251 silly gunzTarPerm extractEntry package.json
+252 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+253 silly gunzTarPerm extractEntry README.md
+254 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+255 silly gunzTarPerm extractEntry CHANGELOG.md
+256 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+257 silly gunzTarPerm extractEntry examples/tcp_server.js
+258 silly gunzTarPerm modified mode [ 'examples/tcp_server.js', 420, 438 ]
+259 silly gunzTarPerm extractEntry lib/websocket/driver.js
+260 silly gunzTarPerm modified mode [ 'lib/websocket/driver.js', 420, 438 ]
+261 silly gunzTarPerm extractEntry lib/websocket/http_parser.js
+262 silly gunzTarPerm modified mode [ 'lib/websocket/http_parser.js', 420, 438 ]
+263 silly gunzTarPerm extractEntry lib/websocket/streams.js
+264 silly gunzTarPerm modified mode [ 'lib/websocket/streams.js', 420, 438 ]
+265 silly gunzTarPerm extractEntry lib/websocket/driver/base.js
+266 silly gunzTarPerm modified mode [ 'lib/websocket/driver/base.js', 420, 438 ]
+267 silly gunzTarPerm extractEntry lib/websocket/driver/client.js
+268 silly gunzTarPerm modified mode [ 'lib/websocket/driver/client.js', 420, 438 ]
+269 silly gunzTarPerm extractEntry lib/websocket/driver/draft75.js
+270 silly gunzTarPerm modified mode [ 'lib/websocket/driver/draft75.js', 420, 438 ]
+271 silly gunzTarPerm extractEntry lib/websocket/driver/draft76.js
+272 silly gunzTarPerm modified mode [ 'lib/websocket/driver/draft76.js', 420, 438 ]
+273 silly gunzTarPerm extractEntry lib/websocket/driver/headers.js
+274 silly gunzTarPerm modified mode [ 'lib/websocket/driver/headers.js', 420, 438 ]
+275 silly gunzTarPerm extractEntry lib/websocket/driver/hybi.js
+276 silly gunzTarPerm modified mode [ 'lib/websocket/driver/hybi.js', 420, 438 ]
+277 silly gunzTarPerm extractEntry lib/websocket/driver/proxy.js
+278 silly gunzTarPerm modified mode [ 'lib/websocket/driver/proxy.js', 420, 438 ]
+279 silly gunzTarPerm extractEntry lib/websocket/driver/server.js
+280 silly gunzTarPerm modified mode [ 'lib/websocket/driver/server.js', 420, 438 ]
+281 silly gunzTarPerm extractEntry lib/websocket/driver/hybi/frame.js
+282 silly gunzTarPerm modified mode [ 'lib/websocket/driver/hybi/frame.js', 420, 438 ]
+283 silly gunzTarPerm extractEntry lib/websocket/driver/hybi/message.js
+284 silly gunzTarPerm modified mode [ 'lib/websocket/driver/hybi/message.js', 420, 438 ]
+285 silly gunzTarPerm extractEntry lib/websocket/driver/hybi/stream_reader.js
+286 silly gunzTarPerm modified mode [ 'lib/websocket/driver/hybi/stream_reader.js', 420, 438 ]
+287 silly cache afterAdd websocket-driver@0.5.2
+288 verbose afterAdd C:\Users\tgld\AppData\Roaming\npm-cache\websocket-driver\0.5.2\package\package.json not in flight; writing
+289 verbose afterAdd C:\Users\tgld\AppData\Roaming\npm-cache\websocket-driver\0.5.2\package\package.json written
+290 silly install resolved [ { name: 'websocket-driver',
+290 silly install resolved     description: 'WebSocket protocol handler with pluggable I/O',
+290 silly install resolved     homepage: 'http://github.com/faye/websocket-driver-node',
+290 silly install resolved     author:
+290 silly install resolved      { name: 'James Coglan',
+290 silly install resolved        email: 'jcoglan@gmail.com',
+290 silly install resolved        url: 'http://jcoglan.com/' },
+290 silly install resolved     keywords: [ 'websocket' ],
+290 silly install resolved     license: 'MIT',
+290 silly install resolved     version: '0.5.2',
+290 silly install resolved     engines: { node: '>=0.6.0' },
+290 silly install resolved     main: './lib/websocket/driver',
+290 silly install resolved     dependencies: { 'websocket-extensions': '>=0.1.1' },
+290 silly install resolved     devDependencies: { jstest: '', 'permessage-deflate': '' },
+290 silly install resolved     scripts: { test: 'jstest spec/runner.js' },
+290 silly install resolved     repository:
+290 silly install resolved      { type: 'git',
+290 silly install resolved        url: 'git://github.com/faye/websocket-driver-node.git' },
+290 silly install resolved     bugs: { url: 'http://github.com/faye/websocket-driver-node/issues' },
+290 silly install resolved     readme: '# websocket-driver [![Build Status](https://travis-ci.org/faye/websocket-driver-node.svg)](https://travis-ci.org/faye/websocket-driver-node)\n\nThis module provides a complete implementation of the WebSocket protocols that\ncan be hooked up to any I/O stream. It aims to simplify things by decoupling the\nprotocol details from the I/O layer, such that users only need to implement code\nto stream data in and out of it without needing to know anything about how the\nprotocol actually works. Think of it as a complete WebSocket system with\npluggable I/O.\n\nDue to this design, you get a lot of things for free. In particular, if you hook\nthis module up to some I/O object, it will do all of this for you:\n\n* Select the correct server-side driver to talk to the client\n* Generate and send both server- and client-side handshakes\n* Recognize when the handshake phase completes and the WS protocol begins\n* Negotiate subprotocol selection based on `Sec-WebSocket-Protocol`\n* Negotiate and use extensions via the\n  [websocket-extensions](https://github.com/faye/websocket-extensions-node)\n  module\n* Buffer sent messages until the handshake process is finished\n* Deal with proxies that defer delivery of the draft-76 handshake body\n* Notify you when the socket is open and closed and when messages arrive\n* Recombine fragmented messages\n* Dispatch text, binary, ping and close frames\n* Manage the socket-closing handshake process\n* Automatically reply to ping frames with a matching pong\n* Apply masking to messages sent by the client\n\nThis library was originally extracted from the [Faye](http://faye.jcoglan.com)\nproject but now aims to provide simple WebSocket support for any Node-based\nproject.\n\n\n## Installation\n\n```\n$ npm install websocket-driver\n```\n\n\n## Usage\n\nThis module provides protocol drivers that have the same interface on the server\nand on the client. A WebSocket driver is an object with two duplex streams\nattached; one for incoming/outgoing messages and one for managing the wire\nprotocol over an I/O stream. The full API is described below.\n\n\n### Server-side with HTTP\n\nA Node webserver emits a special event for \'upgrade\' requests, and this is where\nyou should handle WebSockets. You first check whether the request is a\nWebSocket, and if so you can create a driver and attach the request\'s I/O stream\nto it.\n\n```js\nvar http = require(\'http\'),\n    websocket = require(\'websocket-driver\');\n\nvar server = http.createServer();\n\nserver.on(\'upgrade\', function(request, socket, body) {\n  if (!websocket.isWebSocket(request)) return;\n\n  var driver = websocket.http(request);\n\n  driver.io.write(body);\n  socket.pipe(driver.io).pipe(socket);\n\n  driver.messages.on(\'data\', function(message) {\n    console.log(\'Got a message\', message);\n  });\n\n  driver.start();\n});\n```\n\nNote the line `driver.io.write(body)` - you must pass the `body` buffer to the\nsocket driver in order to make certain versions of the protocol work.\n\n\n### Server-side with TCP\n\nYou can also handle WebSocket connections in a bare TCP server, if you\'re not\nusing an HTTP server and don\'t want to implement HTTP parsing yourself.\n\nThe driver will emit a `connect` event when a request is received, and at this\npoint you can detect whether it\'s a WebSocket and handle it as such. Here\'s an\nexample using the Node `net` module:\n\n```js\nvar net = require(\'net\'),\n    websocket = require(\'websocket-driver\');\n\nvar server = net.createServer(function(connection) {\n  var driver = websocket.server();\n\n  driver.on(\'connect\', function() {\n    if (websocket.isWebSocket(driver)) {\n      driver.start();\n    } else {\n      // handle other HTTP requests\n    }\n  });\n\n  driver.on(\'close\', function() { connection.end() });\n  connection.on(\'error\', function() {});\n\n  connection.pipe(driver.io).pipe(connection);\n\n  driver.messages.pipe(driver.messages);\n});\n\nserver.listen(4180);\n```\n\nIn the `connect` event, the driver gains several properties to describe the\nrequest, similar to a Node request object, such as `method`, `url` and\n`headers`. However you should remember it\'s not a real request object; you\ncannot write data to it, it only tells you what request data we parsed from the\ninput.\n\nIf the request has a body, it will be in the `driver.body` buffer, but only as\nmuch of the body as has been piped into the driver when the `connect` event\nfires.\n\n\n### Client-side\n\nSimilarly, to implement a WebSocket client you just need to make a driver by\npassing in a URL. After this you use the driver API as described below to\nprocess incoming data and send outgoing data.\n\n\n```js\nvar net = require(\'net\'),\n    websocket = require(\'websocket-driver\');\n\nvar driver = websocket.client(\'ws://www.example.com/socket\'),\n    tcp = net.connect(80, \'www.example.com\');\n\ntcp.pipe(driver.io).pipe(tcp);\n\ntcp.on(\'connect\', function() {\n  driver.start();\n});\n\ndriver.messages.on(\'data\', function(message) {\n  console.log(\'Got a message\', message);\n});\n```\n\nClient drivers have two additional properties for reading the HTTP data that was\nsent back by the server:\n\n* `driver.statusCode` - the integer value of the HTTP status code\n* `driver.headers` - an object containing the response headers\n\n\n### HTTP Proxies\n\nThe client driver supports connections via HTTP proxies using the `CONNECT`\nmethod. Instead of sending the WebSocket handshake immediately, it will send a\n`CONNECT` request, wait for a `200` response, and then proceed as normal.\n\nTo use this feature, call `driver.proxy(url)` where `url` is the origin of the\nproxy, including a username and password if required. This produces a duplex\nstream that you should pipe in and out of your TCP connection to the proxy\nserver. When the proxy emits `connect`, you can then pipe `driver.io` to your\nTCP stream and call `driver.start()`.\n\n```js\nvar net = require(\'net\'),\n    websocket = require(\'websocket-driver\');\n\nvar driver = websocket.client(\'ws://www.example.com/socket\'),\n    proxy  = driver.proxy(\'http://username:password@proxy.example.com\'),\n    tcp    = net.connect(80, \'proxy.example.com\');\n\ntcp.pipe(proxy).pipe(tcp, {end: false});\n\ntcp.on(\'connect\', function() {\n  proxy.start();\n});\n\nproxy.on(\'connect\', function() {\n  driver.io.pipe(tcp).pipe(driver.io);\n  driver.start();\n});\n\ndriver.messages.on(\'data\', function(message) {\n  console.log(\'Got a message\', message);\n});\n```\n\nThe proxy\'s `connect` event is also where you should perform a TLS handshake on\nyour TCP stream, if you are connecting to a `wss:` endpoint.\n\nIn the event that proxy connection fails, `proxy` will emit an `error`. You can\ninspect the proxy\'s response via `proxy.statusCode` and `proxy.headers`.\n\n```js\nproxy.on(\'error\', function(error) {\n  console.error(error.message);\n  console.log(proxy.statusCode);\n  console.log(proxy.headers);\n});\n```\n\nBefore calling `proxy.start()` you can set custom headers using\n`proxy.setHeader()`:\n\n```js\nproxy.setHeader(\'User-Agent\', \'node\');\nproxy.start();\n```\n\n\n### Driver API\n\nDrivers are created using one of the following methods:\n\n```js\ndriver = websocket.http(request, options)\ndriver = websocket.server(options)\ndriver = websocket.client(url, options)\n```\n\nThe `http` method returns a driver chosen using the headers from a Node HTTP\nrequest object. The `server` method returns a driver that will parse an HTTP\nrequest and then decide which driver to use for it using the `http` method. The\n`client` method always returns a driver for the RFC version of the protocol with\nmasking enabled on outgoing frames.\n\nThe `options` argument is optional, and is an object. It may contain the\nfollowing fields:\n\n* `maxLength` - the maximum allowed size of incoming message frames, in bytes.\n  The default value is `2^26 - 1`, or 1 byte short of 64 MiB.\n* `protocols` - an array of strings representing acceptable subprotocols for use\n  over the socket. The driver will negotiate one of these to use via the\n  `Sec-WebSocket-Protocol` header if supported by the other peer.\n\nA driver has two duplex streams attached to it:\n\n* <b>`driver.io`</b> - this stream should be attached to an I/O socket like a\n  TCP stream. Pipe incoming TCP chunks to this stream for them to be parsed, and\n  pipe this stream back into TCP to send outgoing frames.\n* <b>`driver.messages`</b> - this stream emits messages received over the\n  WebSocket.  Writing to it sends messages to the other peer by emitting frames\n  via the `driver.io` stream.\n\nAll drivers respond to the following API methods, but some of them are no-ops\ndepending on whether the client supports the behaviour.\n\nNote that most of these methods are commands: if they produce data that should\nbe sent over the socket, they will give this to you by emitting `data` events on\nthe `driver.io` stream.\n\n#### `driver.on(\'open\', function(event) {})`\n\nSets the callback to execute when the socket becomes open.\n\n#### `driver.on(\'message\', function(event) {})`\n\nSets the callback to execute when a message is received. `event` will have a\n`data` attribute containing either a string in the case of a text message or a\n`Buffer` in the case of a binary message.\n\nYou can also listen for messages using the `driver.messages.on(\'data\')` event,\nwhich emits strings for text messages and buffers for binary messages.\n\n#### `driver.on(\'error\', function(event) {})`\n\nSets the callback to execute when a protocol error occurs due to the other peer\nsending an invalid byte sequence. `event` will have a `message` attribute\ndescribing the error.\n\n#### `driver.on(\'close\', function(event) {})`\n\nSets the callback to execute when the socket becomes closed. The `event` object\nhas `code` and `reason` attributes.\n\n#### `driver.addExtension(extension)`\n\nRegisters a protocol extension whose operation will be negotiated via the\n`Sec-WebSocket-Extensions` header. `extension` is any extension compatible with\nthe [websocket-extensions](https://github.com/faye/websocket-extensions-node)\nframework.\n\n#### `driver.setHeader(name, value)`\n\nSets a custom header to be sent as part of the handshake response, either from\nthe server or from the client. Must be called before `start()`, since this is\nwhen the headers are serialized and sent.\n\n#### `driver.start()`\n\nInitiates the protocol by sending the handshake - either the response for a\nserver-side driver or the request for a client-side one. This should be the\nfirst method you invoke.  Returns `true` iff a handshake was sent.\n\n#### `driver.parse(string)`\n\nTakes a string and parses it, potentially resulting in message events being\nemitted (see `on(\'message\')` above) or in data being sent to `driver.io`.  You\nshould send all data you receive via I/O to this method by piping a stream into\n`driver.io`.\n\n#### `driver.text(string)`\n\nSends a text message over the socket. If the socket handshake is not yet\ncomplete, the message will be queued until it is. Returns `true` if the message\nwas sent or queued, and `false` if the socket can no longer send messages.\n\nThis method is equivalent to `driver.messages.write(string)`.\n\n#### `driver.binary(buffer)`\n\nTakes a `Buffer` and sends it as a binary message. Will queue and return `true`\nor `false` the same way as the `text` method. It will also return `false` if the\ndriver does not support binary messages.\n\nThis method is equivalent to `driver.messages.write(buffer)`.\n\n#### `driver.ping(string = \'\', function() {})`\n\nSends a ping frame over the socket, queueing it if necessary. `string` and the\ncallback are both optional. If a callback is given, it will be invoked when the\nsocket receives a pong frame whose content matches `string`. Returns `false` if\nframes can no longer be sent, or if the driver does not support ping/pong.\n\n#### `driver.close()`\n\nInitiates the closing handshake if the socket is still open. For drivers with no\nclosing handshake, this will result in the immediate execution of the\n`on(\'close\')` driver. For drivers with a closing handshake, this sends a closing\nframe and `emit(\'close\')` will execute when a response is received or a protocol\nerror occurs.\n\n#### `driver.version`\n\nReturns the WebSocket version in use as a string. Will either be `hixie-75`,\n`hixie-76` or `hybi-$version`.\n\n#### `driver.protocol`\n\nReturns a string containing the selected subprotocol, if any was agreed upon\nusing the `Sec-WebSocket-Protocol` mechanism. This value becomes available after\n`emit(\'open\')` has fired.\n\n\n## License\n\n(The MIT License)\n\nCopyright (c) 2010-2015 James Coglan\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \'Software\'), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \'AS IS\', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n',
+290 silly install resolved     readmeFilename: 'README.md',
+290 silly install resolved     _id: 'websocket-driver@0.5.2',
+290 silly install resolved     _shasum: '8c7c85da0713b4060556b4d71c01775ee1269eb9',
+290 silly install resolved     _resolved: 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz',
+290 silly install resolved     _from: 'https://registry.npmjs.org/websocket-driver/-/websocket-driver-0.5.2.tgz' } ]
+291 info install websocket-driver@0.5.2 into C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket
+292 info installOne websocket-driver@0.5.2
+293 verbose installOne of websocket-driver to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket not in flight; installing
+294 verbose lock using C:\Users\tgld\AppData\Roaming\npm-cache\_locks\websocket-driver-9a3103e1cf12a833.lock for C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+295 silly install write writing websocket-driver 0.5.2 to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+296 verbose unbuild node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+297 silly gentlyRm C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver is being purged from base C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp
+298 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+299 verbose tar unpack C:\Users\tgld\AppData\Roaming\npm-cache\websocket-driver\0.5.2\package.tgz
+300 verbose tar unpacking to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+301 silly gentlyRm C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver is being purged
+302 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+303 silly gunzTarPerm modes [ '777', '666' ]
+304 silly gunzTarPerm extractEntry package.json
+305 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+306 silly gunzTarPerm extractEntry README.md
+307 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+308 silly gunzTarPerm extractEntry CHANGELOG.md
+309 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+310 silly gunzTarPerm extractEntry examples/tcp_server.js
+311 silly gunzTarPerm modified mode [ 'examples/tcp_server.js', 420, 438 ]
+312 silly gunzTarPerm extractEntry lib/websocket/driver.js
+313 silly gunzTarPerm modified mode [ 'lib/websocket/driver.js', 420, 438 ]
+314 silly gunzTarPerm extractEntry lib/websocket/http_parser.js
+315 silly gunzTarPerm modified mode [ 'lib/websocket/http_parser.js', 420, 438 ]
+316 silly gunzTarPerm extractEntry lib/websocket/streams.js
+317 silly gunzTarPerm modified mode [ 'lib/websocket/streams.js', 420, 438 ]
+318 silly gunzTarPerm extractEntry lib/websocket/driver/base.js
+319 silly gunzTarPerm modified mode [ 'lib/websocket/driver/base.js', 420, 438 ]
+320 silly gunzTarPerm extractEntry lib/websocket/driver/client.js
+321 silly gunzTarPerm modified mode [ 'lib/websocket/driver/client.js', 420, 438 ]
+322 silly gunzTarPerm extractEntry lib/websocket/driver/draft75.js
+323 silly gunzTarPerm modified mode [ 'lib/websocket/driver/draft75.js', 420, 438 ]
+324 silly gunzTarPerm extractEntry lib/websocket/driver/draft76.js
+325 silly gunzTarPerm modified mode [ 'lib/websocket/driver/draft76.js', 420, 438 ]
+326 silly gunzTarPerm extractEntry lib/websocket/driver/headers.js
+327 silly gunzTarPerm modified mode [ 'lib/websocket/driver/headers.js', 420, 438 ]
+328 silly gunzTarPerm extractEntry lib/websocket/driver/hybi.js
+329 silly gunzTarPerm modified mode [ 'lib/websocket/driver/hybi.js', 420, 438 ]
+330 silly gunzTarPerm extractEntry lib/websocket/driver/proxy.js
+331 silly gunzTarPerm modified mode [ 'lib/websocket/driver/proxy.js', 420, 438 ]
+332 silly gunzTarPerm extractEntry lib/websocket/driver/server.js
+333 silly gunzTarPerm modified mode [ 'lib/websocket/driver/server.js', 420, 438 ]
+334 silly gunzTarPerm extractEntry lib/websocket/driver/hybi/frame.js
+335 silly gunzTarPerm modified mode [ 'lib/websocket/driver/hybi/frame.js', 420, 438 ]
+336 silly gunzTarPerm extractEntry lib/websocket/driver/hybi/message.js
+337 silly gunzTarPerm modified mode [ 'lib/websocket/driver/hybi/message.js', 420, 438 ]
+338 silly gunzTarPerm extractEntry lib/websocket/driver/hybi/stream_reader.js
+339 silly gunzTarPerm modified mode [ 'lib/websocket/driver/hybi/stream_reader.js', 420, 438 ]
+340 verbose write writing to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\package.json
+341 info preinstall websocket-driver@0.5.2
+342 verbose readDependencies loading dependencies from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\package.json
+343 verbose readDependencies: using existing wrap [ 'C:\\Users\\tgld\\Desktop\\handmade-digital\\new-website\\vue-webgulp\\node_modules\\firebase\\node_modules\\faye-websocket\\node_modules\\websocket-driver',
+343 verbose readDependencies: using existing wrap   { 'websocket-extensions':
+343 verbose readDependencies: using existing wrap      { version: '0.1.1',
+343 verbose readDependencies: using existing wrap        from: 'websocket-extensions@>=0.1.1',
+343 verbose readDependencies: using existing wrap        resolved: 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz' } } ]
+344 verbose from wrap [ 'websocket-extensions',
+344 verbose from wrap   { version: '0.1.1',
+344 verbose from wrap     from: 'websocket-extensions@>=0.1.1',
+344 verbose from wrap     resolved: 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz' } ]
+345 verbose readDependencies returned deps { 'websocket-extensions': 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz' }
+346 silly prepareForInstallMany adding websocket-extensions@https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz from websocket-driver dependencies
+347 verbose readDependencies loading dependencies from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\package.json
+348 verbose readDependencies: using existing wrap [ 'C:\\Users\\tgld\\Desktop\\handmade-digital\\new-website\\vue-webgulp\\node_modules\\firebase\\node_modules\\faye-websocket\\node_modules\\websocket-driver',
+348 verbose readDependencies: using existing wrap   { 'websocket-extensions':
+348 verbose readDependencies: using existing wrap      { version: '0.1.1',
+348 verbose readDependencies: using existing wrap        from: 'websocket-extensions@>=0.1.1',
+348 verbose readDependencies: using existing wrap        resolved: 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz' } } ]
+349 verbose from wrap [ 'websocket-extensions',
+349 verbose from wrap   { version: '0.1.1',
+349 verbose from wrap     from: 'websocket-extensions@>=0.1.1',
+349 verbose from wrap     resolved: 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz' } ]
+350 verbose readDependencies returned deps { 'websocket-extensions': 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz' }
+351 silly cache add args [ 'websocket-extensions@https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz',
+351 silly cache add   null ]
+352 verbose cache add spec websocket-extensions@https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz
+353 silly cache add parsed spec Result {
+353 silly cache add   raw: 'websocket-extensions@https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz',
+353 silly cache add   scope: null,
+353 silly cache add   name: 'websocket-extensions',
+353 silly cache add   rawSpec: 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz',
+353 silly cache add   spec: 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz',
+353 silly cache add   type: 'remote' }
+354 silly mapToRegistry name websocket-extensions@https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz
+355 silly mapToRegistry using default registry
+356 silly mapToRegistry registry http://registry.npmjs.org/
+357 silly mapToRegistry uri http://registry.npmjs.org/websocket-extensions@https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz
+358 verbose addRemoteTarball https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz not in flight; adding
+359 verbose addRemoteTarball [ 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz',
+359 verbose addRemoteTarball   null ]
+360 info retry fetch attempt 1 at 10:44:41 PM
+361 info attempt registry request try #1 at 10:44:41 PM
+362 http fetch GET https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz
+363 http fetch 200 https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz
+364 silly fetchAndShaCheck shasum 76899499c184b6ef754377c2dbb0cd6cb55d29e7
+365 verbose addTmpTarball C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\registry.npmjs.org\websocket-extensions\-\websocket-extensions-0.1.1.tgz not in flight; adding
+366 verbose addTmpTarball validating metadata from C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\registry.npmjs.org\websocket-extensions\-\websocket-extensions-0.1.1.tgz
+367 verbose tar unpack C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\registry.npmjs.org\websocket-extensions\-\websocket-extensions-0.1.1.tgz
+368 verbose tar unpacking to C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\unpack-552895540efd
+369 silly gentlyRm C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\unpack-552895540efd is being purged
+370 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\AppData\Local\Temp\npm-9084-5b6e0401\unpack-552895540efd
+371 silly gunzTarPerm modes [ '777', '666' ]
+372 silly gunzTarPerm extractEntry package.json
+373 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+374 silly gunzTarPerm extractEntry README.md
+375 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+376 silly gunzTarPerm extractEntry CHANGELOG.md
+377 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+378 silly gunzTarPerm extractEntry lib/parser.js
+379 silly gunzTarPerm modified mode [ 'lib/parser.js', 420, 438 ]
+380 silly gunzTarPerm extractEntry lib/websocket_extensions.js
+381 silly gunzTarPerm modified mode [ 'lib/websocket_extensions.js', 420, 438 ]
+382 silly gunzTarPerm extractEntry lib/pipeline/README.md
+383 silly gunzTarPerm modified mode [ 'lib/pipeline/README.md', 420, 438 ]
+384 silly gunzTarPerm extractEntry lib/pipeline/cell.js
+385 silly gunzTarPerm modified mode [ 'lib/pipeline/cell.js', 420, 438 ]
+386 silly gunzTarPerm extractEntry lib/pipeline/functor.js
+387 silly gunzTarPerm modified mode [ 'lib/pipeline/functor.js', 420, 438 ]
+388 silly gunzTarPerm extractEntry lib/pipeline/index.js
+389 silly gunzTarPerm modified mode [ 'lib/pipeline/index.js', 420, 438 ]
+390 silly gunzTarPerm extractEntry lib/pipeline/pledge.js
+391 silly gunzTarPerm modified mode [ 'lib/pipeline/pledge.js', 420, 438 ]
+392 silly gunzTarPerm extractEntry lib/pipeline/ring_buffer.js
+393 silly gunzTarPerm modified mode [ 'lib/pipeline/ring_buffer.js', 420, 438 ]
+394 silly cache afterAdd websocket-extensions@0.1.1
+395 verbose afterAdd C:\Users\tgld\AppData\Roaming\npm-cache\websocket-extensions\0.1.1\package\package.json not in flight; writing
+396 verbose afterAdd C:\Users\tgld\AppData\Roaming\npm-cache\websocket-extensions\0.1.1\package\package.json written
+397 silly install resolved [ { name: 'websocket-extensions',
+397 silly install resolved     description: 'Generic extension manager for WebSocket connections',
+397 silly install resolved     homepage: 'http://github.com/faye/websocket-extensions-node',
+397 silly install resolved     author:
+397 silly install resolved      { name: 'James Coglan',
+397 silly install resolved        email: 'jcoglan@gmail.com',
+397 silly install resolved        url: 'http://jcoglan.com/' },
+397 silly install resolved     keywords: [ 'websocket' ],
+397 silly install resolved     license: 'MIT',
+397 silly install resolved     version: '0.1.1',
+397 silly install resolved     engines: { node: '>=0.6.0' },
+397 silly install resolved     main: './lib/websocket_extensions',
+397 silly install resolved     devDependencies: { jstest: '' },
+397 silly install resolved     scripts: { test: 'jstest spec/runner.js' },
+397 silly install resolved     repository:
+397 silly install resolved      { type: 'git',
+397 silly install resolved        url: 'git://github.com/faye/websocket-extensions-node.git' },
+397 silly install resolved     bugs: { url: 'http://github.com/faye/websocket-extensions-node/issues' },
+397 silly install resolved     readme: '# websocket-extensions [![Build status](https://secure.travis-ci.org/faye/websocket-extensions-node.svg)](http://travis-ci.org/faye/websocket-extensions-node)\n\nA minimal framework that supports the implementation of WebSocket extensions in\na way that\'s decoupled from the main protocol. This library aims to allow a\nWebSocket extension to be written and used with any protocol library, by\ndefining abstract representations of frames and messages that allow modules to\nco-operate.\n\n`websocket-extensions` provides a container for registering extension plugins,\nand provides all the functions required to negotiate which extensions to use\nduring a session via the `Sec-WebSocket-Extensions` header. By implementing the\nAPIs defined in this document, an extension may be used by any WebSocket library\nbased on this framework.\n\n## Installation\n\n```\n$ npm install websocket-extensions\n```\n\n## Usage\n\nThere are two main audiences for this library: authors implementing the\nWebSocket protocol, and authors implementing extensions. End users of a\nWebSocket library or an extension should be able to use any extension by passing\nit as an argument to their chosen protocol library, without needing to know how\neither of them work, or how the `websocket-extensions` framework operates.\n\nThe library is designed with the aim that any protocol implementation and any\nextension can be used together, so long as they support the same abstract\nrepresentation of frames and messages.\n\n### Data types\n\nThe APIs provided by the framework rely on two data types; extensions will\nexpect to be given data and to be able to return data in these formats:\n\n#### *Frame*\n\n*Frame* is a structure representing a single WebSocket frame of any type. Frames\nare simple objects that must have at least the following properties, which\nrepresent the data encoded in the frame:\n\n| property     | description                                                        |\n| ------------ | ------------------------------------------------------------------ |\n| `final`      | `true` if the `FIN` bit is set, `false` otherwise                  |\n| `rsv1`       | `true` if the `RSV1` bit is set, `false` otherwise                 |\n| `rsv2`       | `true` if the `RSV2` bit is set, `false` otherwise                 |\n| `rsv3`       | `true` if the `RSV3` bit is set, `false` otherwise                 |\n| `opcode`     | the numeric opcode (`0`, `1`, `2`, `8`, `9`, or `10`) of the frame |\n| `masked`     | `true` if the `MASK` bit is set, `false` otherwise                 |\n| `maskingKey` | a 4-byte `Buffer` if `masked` is `true`, otherwise `null`          |\n| `payload`    | a `Buffer` containing the (unmasked) application data              |\n\n#### *Message*\n\nA *Message* represents a complete application message, which can be formed from\ntext, binary and continuation frames. It has the following properties:\n\n| property | description                                                       |\n| -------- | ----------------------------------------------------------------- |\n| `rsv1`   | `true` if the first frame of the message has the `RSV1` bit set   |\n| `rsv2`   | `true` if the first frame of the message has the `RSV2` bit set   |\n| `rsv3`   | `true` if the first frame of the message has the `RSV3` bit set   |\n| `opcode` | the numeric opcode (`1` or `2`) of the first frame of the message |\n| `data`   | the concatenation of all the frame payloads in the message        |\n\n### For driver authors\n\nA driver author is someone implementing the WebSocket protocol proper, and who\nwishes end users to be able to use WebSocket extensions with their library.\n\nAt the start of a WebSocket session, on both the client and the server side,\nthey should begin by creating an extension container and adding whichever\nextensions they want to use.\n\n```js\nvar Extensions = require(\'websocket-extensions\'),\n    deflate    = require(\'permessage-deflate\');\n\nvar exts = new Extensions();\nexts.add(deflate);\n```\n\nIn the following examples, `exts` refers to this `Extensions` instance.\n\n#### Client sessions\n\nClients will use the methods `generateOffer()` and `activate(header)`.\n\nAs part of the handshake process, the client must send a\n`Sec-WebSocket-Extensions` header to advertise that it supports the registered\nextensions. This header should be generated using:\n\n```js\nrequest.headers[\'sec-websocket-extensions\'] = exts.generateOffer();\n```\n\nThis returns a string, for example `"permessage-deflate;\nclient_max_window_bits"`, that represents all the extensions the client is\noffering to use, and their parameters. This string may contain multiple offers\nfor the same extension.\n\nWhen the client receives the handshake response from the server, it should pass\nthe incoming `Sec-WebSocket-Extensions` header in to `exts` to activate the\nextensions the server has accepted:\n\n```js\nexts.activate(response.headers[\'sec-websocket-extensions\']);\n```\n\nIf the server has sent any extension responses that the client does not\nrecognize, or are in conflict with one another for use of RSV bits, or that use\ninvalid parameters for the named extensions, then `exts.activate()` will\n`throw`. In this event, the client driver should fail the connection with\nclosing code `1010`.\n\n#### Server sessions\n\nServers will use the method `generateResponse(header)`.\n\nA server session needs to generate a `Sec-WebSocket-Extensions` header to send\nin its handshake response:\n\n```js\nvar clientOffer = request.headers[\'sec-websocket-extensions\'],\n    extResponse = exts.generateResponse(clientOffer);\n\nresponse.headers[\'sec-websocket-extensions\'] = extResponse;\n```\n\nCalling `exts.generateResponse(header)` activates those extensions the client\nhas asked to use, if they are registered, asks each extension for a set of\nresponse parameters, and returns a string containing the response parameters for\nall accepted extensions.\n\n#### In both directions\n\nBoth clients and servers will use the methods `validFrameRsv(frame)`,\n`processIncomingMessage(message)` and `processOutgoingMessage(message)`.\n\nThe WebSocket protocol requires that frames do not have any of the `RSV` bits\nset unless there is an extension in use that allows otherwise. When processing\nan incoming frame, sessions should pass a *Frame* object to:\n\n```js\nexts.validFrameRsv(frame)\n```\n\nIf this method returns `false`, the session should fail the WebSocket connection\nwith closing code `1002`.\n\nTo pass incoming messages through the extension stack, a session should\nconstruct a *Message* object according to the above datatype definitions, and\ncall:\n\n```js\nexts.processIncomingMessage(message, function(error, msg) {\n  // hand the message off to the application\n});\n```\n\nIf any extensions fail to process the message, then the callback will yield an\nerror and the session should fail the WebSocket connection with closing code\n`1010`. If `error` is `null`, then `msg` should be passed on to the application.\n\nTo pass outgoing messages through the extension stack, a session should\nconstruct a *Message* as before, and call:\n\n```js\nexts.processOutgoingMessage(message, function(error, msg) {\n  // write message to the transport\n});\n```\n\nIf any extensions fail to process the message, then the callback will yield an\nerror and the session should fail the WebSocket connection with closing code\n`1010`. If `error` is `null`, then `message` should be converted into frames\n(with the message\'s `rsv1`, `rsv2`, `rsv3` and `opcode` set on the first frame)\nand written to the transport.\n\nAt the end of the WebSocket session (either when the protocol is explicitly\nended or the transport connection disconnects), the driver should call:\n\n```js\nexts.close(function() {})\n```\n\nThe callback is invoked when all extensions have finished processing any\nmessages in the pipeline and it\'s safe to close the socket.\n\n### For extension authors\n\nAn extension author is someone implementing an extension that transforms\nWebSocket messages passing between the client and server. They would like to\nimplement their extension once and have it work with any protocol library.\n\nExtension authors will not install `websocket-extensions` or call it directly.\nInstead, they should implement the following API to allow their extension to\nplug into the `websocket-extensions` framework.\n\nAn `Extension` is any object that has the following properties:\n\n| property | description                                                                  |\n| -------- | ---------------------------------------------------------------------------- |\n| `name`   | a string containing the name of the extension as used in negotiation headers |\n| `type`   | a string, must be `"permessage"`                                             |\n| `rsv1`   | either `true` if the extension uses the RSV1 bit, `false` otherwise          |\n| `rsv2`   | either `true` if the extension uses the RSV2 bit, `false` otherwise          |\n| `rsv3`   | either `true` if the extension uses the RSV3 bit, `false` otherwise          |\n\nIt must also implement the following methods:\n\n```js\next.createClientSession()\n```\n\nThis returns a *ClientSession*, whose interface is defined below.\n\n```js\next.createServerSession(offers)\n```\n\nThis takes an array of offer params and returns a *ServerSession*, whose\ninterface is defined below. For example, if the client handshake contains the\noffer header:\n\n```\nSec-WebSocket-Extensions: permessage-deflate; server_no_context_takeover; server_max_window_bits=8, \\\n                          permessage-deflate; server_max_window_bits=15\n```\n\nthen the `permessage-deflate` extension will receive the call:\n\n```js\next.createServerSession([\n  {server_no_context_takeover: true, server_max_window_bits: 8},\n  {server_max_window_bits: 15}\n]);\n```\n\nThe extension must decide which set of parameters it wants to accept, if any,\nand return a *ServerSession* if it wants to accept the parameters and `null`\notherwise.\n\n#### *ClientSession*\n\nA *ClientSession* is the type returned by `ext.createClientSession()`. It must\nimplement the following methods, as well as the *Session* API listed below.\n\n```js\nclientSession.generateOffer()\n// e.g.  -> [\n//            {server_no_context_takeover: true, server_max_window_bits: 8},\n//            {server_max_window_bits: 15}\n//          ]\n```\n\nThis must return a set of parameters to include in the client\'s\n`Sec-WebSocket-Extensions` offer header. If the session wants to offer multiple\nconfigurations, it can return an array of sets of parameters as shown above.\n\n```js\nclientSession.activate(params) // -> true\n```\n\nThis must take a single set of parameters from the server\'s handshake response\nand use them to configure the client session. If the client accepts the given\nparameters, then this method must return `true`. If it returns any other value,\nthe framework will interpret this as the client rejecting the response, and will\n`throw`.\n\n#### *ServerSession*\n\nA *ServerSession* is the type returned by `ext.createServerSession(offers)`. It\nmust implement the following methods, as well as the *Session* API listed below.\n\n```js\nserverSession.generateResponse()\n// e.g.  -> {server_max_window_bits: 8}\n```\n\nThis returns the set of parameters the server session wants to send in its\n`Sec-WebSocket-Extensions` response header. Only one set of parameters is\nreturned to the client per extension. Server sessions that would confict on\ntheir use of RSV bits are not activated.\n\n#### *Session*\n\nThe *Session* API must be implemented by both client and server sessions. It\ncontains two methods, `processIncomingMessage(message)` and\n`processOutgoingMessage(message)`.\n\n```js\nsession.processIncomingMessage(message, function(error, msg) { ... })\n```\n\nThe session must implement this method to take an incoming *Message* as defined\nabove, transform it in any way it needs, then return it via the callback. If\nthere is an error processing the message, this method should yield an error as\nthe first argument.\n\n```js\nsession.processOutgoingMessage(message, function(error, msg) { ... })\n```\n\nThe session must implement this method to take an outgoing *Message* as defined\nabove, transform it in any way it needs, then return it via the callback. If\nthere is an error processing the message, this method should yield an error as\nthe first argument.\n\nNote that both `processIncomingMessage()` and `processOutgoingMessage()` can\nperform their logic asynchronously, are allowed to process multiple messages\nconcurrently, and are not required to complete working on messages in the same\norder the messages arrive. `websocket-extensions` will reorder messages as your\nextension emits them and will make sure every extension is given messages in the\norder they arrive from the driver. This allows extensions to maintain state that\ndepends on the messages\' wire order, for example keeping a DEFLATE compression\ncontext between messages.\n\n```js\nsession.close()\n```\n\nThe framework will call this method when the WebSocket session ends, allowing\nthe session to release any resources it\'s using.\n\n## Examples\n\n* Consumer: [websocket-driver](https://github.com/faye/websocket-driver-node)\n* Provider: [permessage-deflate](https://github.com/faye/permessage-deflate-node)\n\n## License\n\n(The MIT License)\n\nCopyright (c) 2014-2015 James Coglan\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \'Software\'), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \'AS IS\', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n',
+397 silly install resolved     readmeFilename: 'README.md',
+397 silly install resolved     _id: 'websocket-extensions@0.1.1',
+397 silly install resolved     _shasum: '76899499c184b6ef754377c2dbb0cd6cb55d29e7',
+397 silly install resolved     _resolved: 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz',
+397 silly install resolved     _from: 'https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.1.tgz' } ]
+398 info install websocket-extensions@0.1.1 into C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+399 info installOne websocket-extensions@0.1.1
+400 verbose installOne of websocket-extensions to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver not in flight; installing
+401 verbose lock using C:\Users\tgld\AppData\Roaming\npm-cache\_locks\websocket-extensions-c11933eeeaff9afb.lock for C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions
+402 silly install write writing websocket-extensions 0.1.1 to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions
+403 verbose unbuild node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions
+404 silly gentlyRm C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions is being purged from base C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp
+405 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions
+406 verbose tar unpack C:\Users\tgld\AppData\Roaming\npm-cache\websocket-extensions\0.1.1\package.tgz
+407 verbose tar unpacking to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions
+408 silly gentlyRm C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions is being purged
+409 verbose gentlyRm don't care about contents; nuking C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions
+410 silly gunzTarPerm modes [ '777', '666' ]
+411 silly gunzTarPerm extractEntry package.json
+412 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+413 silly gunzTarPerm extractEntry README.md
+414 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+415 silly gunzTarPerm extractEntry CHANGELOG.md
+416 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 420, 438 ]
+417 silly gunzTarPerm extractEntry lib/parser.js
+418 silly gunzTarPerm modified mode [ 'lib/parser.js', 420, 438 ]
+419 silly gunzTarPerm extractEntry lib/websocket_extensions.js
+420 silly gunzTarPerm modified mode [ 'lib/websocket_extensions.js', 420, 438 ]
+421 silly gunzTarPerm extractEntry lib/pipeline/README.md
+422 silly gunzTarPerm modified mode [ 'lib/pipeline/README.md', 420, 438 ]
+423 silly gunzTarPerm extractEntry lib/pipeline/cell.js
+424 silly gunzTarPerm modified mode [ 'lib/pipeline/cell.js', 420, 438 ]
+425 silly gunzTarPerm extractEntry lib/pipeline/functor.js
+426 silly gunzTarPerm modified mode [ 'lib/pipeline/functor.js', 420, 438 ]
+427 silly gunzTarPerm extractEntry lib/pipeline/index.js
+428 silly gunzTarPerm modified mode [ 'lib/pipeline/index.js', 420, 438 ]
+429 silly gunzTarPerm extractEntry lib/pipeline/pledge.js
+430 silly gunzTarPerm modified mode [ 'lib/pipeline/pledge.js', 420, 438 ]
+431 silly gunzTarPerm extractEntry lib/pipeline/ring_buffer.js
+432 silly gunzTarPerm modified mode [ 'lib/pipeline/ring_buffer.js', 420, 438 ]
+433 verbose write writing to C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions\package.json
+434 info preinstall websocket-extensions@0.1.1
+435 verbose readDependencies loading dependencies from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions\package.json
+436 verbose readDependencies loading dependencies from C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions\package.json
+437 silly install resolved []
+438 verbose about to build C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions
+439 info build C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions
+440 info linkStuff websocket-extensions@0.1.1
+441 silly linkStuff websocket-extensions@0.1.1 has C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules as its parent node_modules
+442 verbose linkBins websocket-extensions@0.1.1
+443 verbose linkMans websocket-extensions@0.1.1
+444 verbose rebuildBundles websocket-extensions@0.1.1
+445 info install websocket-extensions@0.1.1
+446 info postinstall websocket-extensions@0.1.1
+447 verbose unlock done using C:\Users\tgld\AppData\Roaming\npm-cache\_locks\websocket-extensions-c11933eeeaff9afb.lock for C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver\node_modules\websocket-extensions
+448 verbose about to build C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+449 info build C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+450 info linkStuff websocket-driver@0.5.2
+451 silly linkStuff websocket-driver@0.5.2 has C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules as its parent node_modules
+452 verbose linkBins websocket-driver@0.5.2
+453 verbose linkMans websocket-driver@0.5.2
+454 verbose rebuildBundles websocket-driver@0.5.2
+455 verbose rebuildBundles [ 'websocket-extensions' ]
+456 info install websocket-driver@0.5.2
+457 info postinstall websocket-driver@0.5.2
+458 verbose unlock done using C:\Users\tgld\AppData\Roaming\npm-cache\_locks\websocket-driver-9a3103e1cf12a833.lock for C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket\node_modules\websocket-driver
+459 verbose about to build C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket
+460 info build C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket
+461 info linkStuff faye-websocket@0.9.3
+462 silly linkStuff faye-websocket@0.9.3 has C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules as its parent node_modules
+463 verbose linkBins faye-websocket@0.9.3
+464 verbose linkMans faye-websocket@0.9.3
+465 verbose rebuildBundles faye-websocket@0.9.3
+466 verbose rebuildBundles [ 'websocket-driver' ]
+467 info install faye-websocket@0.9.3
+468 info postinstall faye-websocket@0.9.3
+469 verbose unlock done using C:\Users\tgld\AppData\Roaming\npm-cache\_locks\faye-websocket-a58c54cbb7a2e056.lock for C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase\node_modules\faye-websocket
+470 verbose about to build C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+471 info build C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+472 info linkStuff firebase@2.4.1
+473 silly linkStuff firebase@2.4.1 has C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules as its parent node_modules
+474 verbose linkBins firebase@2.4.1
+475 verbose linkMans firebase@2.4.1
+476 verbose rebuildBundles firebase@2.4.1
+477 verbose rebuildBundles [ 'faye-websocket' ]
+478 info install firebase@2.4.1
+479 info postinstall firebase@2.4.1
+480 verbose unlock done using C:\Users\tgld\AppData\Roaming\npm-cache\_locks\firebase-117fe8b77e887c39.lock for C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\node_modules\firebase
+481 verbose validateInstall loading C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp\package.json for validation
+482 verbose stack Error: The package babel-runtime@6.5.0 does not satisfy its siblings' peerDependencies requirements!
+482 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:125:32
+482 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:268:7
+482 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+482 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+482 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+482 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+482 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+482 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+482 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+482 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+483 verbose cwd C:\Users\tgld\Desktop\handmade-digital\new-website\vue-webgulp
+484 error Windows_NT 6.3.9600
+485 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "firebase" "--save"
+486 error node v4.2.6
+487 error npm  v2.14.12
+488 error code EPEERINVALID
+489 error peerinvalid The package babel-runtime@6.5.0 does not satisfy its siblings' peerDependencies requirements!
+489 error peerinvalid Peer vue-loader@7.5.3 wants babel-runtime@^5.8.0
+490 verbose exit [ 1, true ]
