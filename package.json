@@ -45,6 +45,7 @@
   "dependencies": {
     "foundation-sites": "^6.0.6",
     "vue": "^1.0.11",
+    "base64url": "1.0.6",
     "vue-resource": "^0.6.0",
     "vue-router": "^0.7.7"
   }

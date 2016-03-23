@@ -26,16 +26,18 @@ _Does not rely on any global dependencies._
 ├── src
 │   ├── components
 │   │   ├── About.Vue
-│   │   |── App.vue
-│   │   |── Home.vue
+│   │   ├── App.vue
+│   │   ├── Home.vue
 │   │   └── Quote.vue
-│   |── services
-│   |    └── quote
-|   |       └── index.js
+│   │── services
+│   │    ├── quote
+│   │    │   └── index.js
+│	│	 └── clients
+│	│	 	 └── index.js
 │   ├── index.html
-|   └── app.scss
+│   └── app.scss
 ├── dist
-│   |── js
+│   ├── js
 │   |   └── app.js
 │   └── index.html
 ├── gulpfile.js
